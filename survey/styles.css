@@ -1,0 +1,25 @@
+body{
+  background-color: grey;
+  text-align: left; 
+}
+form{
+  max-width: 510px;
+  text-align: left;
+  padding: 20px; 
+  border: 2px dotted white;
+  border-radius: 60px;
+}
+.input-element{
+  display:flex;
+  flex-direction: column;
+  margin: 30px;
+}
+select{
+  padding: 10px; 
+  border: 2px solid black;
+  border-radius: 10px;
+}
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px; 
+
